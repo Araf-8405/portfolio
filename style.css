@@ -69,7 +69,7 @@ section{
 .ex{
 
     background-color: rgb(236, 236, 236);
-    height: 700px;
+    height: 1000px;
     padding: 10px;
 }
 
@@ -108,25 +108,4 @@ footer p{
     margin-left: 15%;
     margin-top: 20px;
 }
-.group img{
-  width: 50%;
-  height: 50%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 53%;
-}
-.top-right {
-    position: absolute;
-    top: 2463px;
-    right: 728px;
-    font-size: xx-large;
-    color: white;
-  }
-  .t{
-    position: absolute;
-    top: 2505px;
-    right: 416px;
-    font-size:large;
-    color: white;
-  }
+
